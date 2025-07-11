@@ -3,7 +3,7 @@ CONFIG = {
     "telegram_bot_token": "8101850489:AAH7gz08kHK184BBiBjukdiHAKVWw0B573s",
     "telegram_chat_id": "7672755428",
     "birdeye_api_key": "61bd77e007e04b42b9dc95dc842bf583",
-    buy_amount_sol": 0.2,
+    "buy_amount_sol": 0.2,
   "sell_multiplier": 2.0,
   "price_check_delay": 10,
   "min_liquidity": 5000
