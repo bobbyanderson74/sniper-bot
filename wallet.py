@@ -1,6 +1,6 @@
 import requests
 from solana.rpc.api import Client
-from solana.keypair import Keypair
+from solders.keypair import Keypair
 from solana.rpc.types import TxOpts
 from solana.transaction import Transaction
 from base58 import b58decode
