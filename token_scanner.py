@@ -2,7 +2,7 @@ import requests
 from config import CONFIG
 
 BIRDEYE_HEADERS = {
-    "X-API-KEY": CONFIG["birdeye_api_key"]
+    "X-API-KEY": CONFIG["61bd77e007e04b42b9dc95dc842bf583"]
 }
 
 def get_new_tokens():
